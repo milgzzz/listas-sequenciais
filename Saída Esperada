@@ -1,0 +1,18 @@
+=== TESTES DA LISTA SEQUENCIAL ===
+
+1. Lista criada. Tamanho: 0
+2. Lista vazia? Sim
+
+3. Inserindo elementos...
+Lista após inserções: [5, 10, 20]
+4. Tamanho da lista: 3
+5. Elemento na posição 2: 10
+
+6. Modificando elemento...
+Lista após modificação: [5, 10, 25]
+
+7. Removendo elemento...
+Valor removido: 10
+Lista após remoção: [5, 25]
+
+8. Lista cheia? Não
